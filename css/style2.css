@@ -1,0 +1,20 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    background-color:grey;
+}
+
+.menu-item {
+    padding: 5px 25px;
+    color: #fff;
+}
+
+.menu-item:link { 
+  color: rgb(255,255,255);
+  text-decoration: none; 
+}
+
+.menu-item:hover {
+  background-color: whitesmoke;
+  color:grey;
+}
