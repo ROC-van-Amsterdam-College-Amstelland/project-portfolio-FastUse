@@ -33,7 +33,7 @@
 
 #middlebox { 
     float:left;  
-    background: whitesmoke; 
+    background: white; 
     width:50%; 
     height:280px; 
 } 
@@ -47,7 +47,7 @@
 
 #LeftLowerBox {
     float:left;
-    background: whitesmoke;
+    background: lightgrey;
     width: 25%;
     height: 280px;
 }
@@ -66,13 +66,21 @@
     height: 280px;
 }
 
+
 #RightLowerBox {
     float:left;
-    background: whitesmoke;
+    background: lightgrey;
     width: 25%;
     height: 280px;
 }
+
 h1{ 
     color:grey; 
     text-align:center; 
 } 
+
+body { 
+    background-color: whitesmoke;
+}
+
+.mySlides {display:none;}
