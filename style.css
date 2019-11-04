@@ -1,0 +1,78 @@
+.menu {
+    display: flex;
+    flex-direction: row;
+    background-color:grey;
+}
+
+.menu-item {
+    padding: 5px 25px;
+    color: #fff;
+}
+
+.menu-item:link { 
+  color: rgb(255,255,255);
+  text-decoration: none; 
+}
+
+.menu-item:hover {
+  background-color: whitesmoke;
+  color:grey;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+#leftbox { 
+    float:left;  
+    background:lightgrey; 
+    width:25%; 
+    height:280px; 
+} 
+
+#middlebox { 
+    float:left;  
+    background: whitesmoke; 
+    width:50%; 
+    height:280px; 
+} 
+
+#rightbox { 
+    float:right; 
+    background:lightgrey; 
+    width:25%; 
+    height:280px; 
+} 
+
+#LeftLowerBox {
+    float:left;
+    background: whitesmoke;
+    width: 25%;
+    height: 280px;
+}
+
+#MiddleLowerBox {
+    float:left;
+    background: lightgrey;
+    width: 25%;
+    height: 280px;
+}
+
+#Middle2LowerBox {
+    float:left;
+    background: lightgrey;
+    width: 25%;
+    height: 280px;
+}
+
+#RightLowerBox {
+    float:left;
+    background: whitesmoke;
+    width: 25%;
+    height: 280px;
+}
+h1{ 
+    color:grey; 
+    text-align:center; 
+} 
