@@ -34,10 +34,38 @@
     padding: 25px;
 }
 
+.item2 {
+    width: 500px;
+    height: 250px;
+    background-color: lightgrey;
+    margin: 30px 0px;
+}
+
+.item3 {
+    width: 500px;
+    height: 250px;
+    background: whitesmoke;
+    margin: 30px 0px;
+}
+
+.item4 {
+    width: 500px;
+    height: 200px;
+    background: whitesmoke;
+    margin: 30px 0px;
+}
+
 footer {
     background-color: grey;
     padding: 5px;
-    text-align: left;
+    text-align: center;
     color: whitesmoke;
     width: 100%;
+}
+
+.fotoPak {
+    width: 500px;
+    height: 400px;
+    color: whitesmoke;
+    margin: 30px 0px;
 }
