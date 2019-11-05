@@ -81,3 +81,11 @@ body {
 }
 
 .mySlides {display:none;}
+
+footer {
+    background-color: grey;
+    padding: 5px;
+    text-align: left;
+    color: whitesmoke;
+    width: 100%;
+}

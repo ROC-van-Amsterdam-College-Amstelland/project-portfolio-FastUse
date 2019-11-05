@@ -18,3 +18,26 @@
   background-color: whitesmoke;
   color:grey;
 }
+
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: space-around;
+    justify-content: space-around;
+}
+
+.item {
+    width: 500px;
+    height: 600px;
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 25px;
+}
+
+footer {
+    background-color: grey;
+    padding: 5px;
+    text-align: left;
+    color: whitesmoke;
+    width: 100%;
+}
